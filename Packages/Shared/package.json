@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.shared",
+  "version": "0.0.1",
+  "displayName": "Shared",
+  "description": "All shared code and assets",
+  "unity": "2019.4",
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "hideInEditor": false
+}
